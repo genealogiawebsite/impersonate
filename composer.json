@@ -1,23 +1,23 @@
 {
-    "name": "laravel-enso/impersonate",
+    "name": "genealogiawebsite/impersonate",
     "description": "User impersonation dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "impersonate",
         "impersonate-users"
     ],
-    "homepage": "https://github.com/laravel-enso/impersonate",
+    "homepage": "https://github.com/genealogiawebsite/impersonate",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/migrator": "^2.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/migrator": "^2.0"
     },
     "autoload": {
         "psr-4": {
