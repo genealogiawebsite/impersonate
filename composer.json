@@ -16,8 +16,14 @@
         "role": "Developer"
     }],
     "require": {
+<<<<<<< HEAD
         "genealogiawebsite/core": "^6.0",
         "genealogiawebsite/migrator": "^2.0"
+=======
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/dynamic-methods": "^4.4"
+>>>>>>> upstream/master
     },
     "autoload": {
         "psr-4": {
