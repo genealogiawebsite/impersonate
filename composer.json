@@ -17,12 +17,18 @@
     }],
     "require": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "genealogiawebsite/core": "^6.0",
         "genealogiawebsite/migrator": "^2.0"
 =======
         "genealogiawebsite/core": "^6.0",
         "genealogiawebsite/migrator": "^2.0",
         "genealogiawebsite/dynamic-methods": "^4.4"
+>>>>>>> upstream/master
+=======
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/dynamic-methods": "^2.0"
 >>>>>>> upstream/master
     },
     "autoload": {
